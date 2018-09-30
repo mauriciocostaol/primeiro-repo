@@ -1,2 +1,3 @@
 Outro arquivo criado.
-
+ Texto aleatório
+Lorem Ipsum.
